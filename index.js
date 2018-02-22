@@ -86,7 +86,7 @@ client.on('message', message => {
   } else
 
 	if (message.content.startsWith(prefix + 'Prices')) {
-		  message.channel.sendMessage('\`\`\`css\nThëClan [ Prices ]:\n\n\nBc Channel [ Access ]\n\nPer Week : [ 120 R$ ] [ 1.00$ ] [ 50 Php ]\nPer Month : [ 300 R$ ] [ 2.00$ ] [ 100 Php ]\n\nOne Time Payment : [ 500 R$ ] [ 3.00$ ] [ 200 Php ]\n\nTbc Channel [ Access ]\n\nPer Week : [ 200 R$ ] [ 1.50 $ ] [ 75 Php ]\nPer Month : [ 400 R$ ] [ 3.50 $ ] [ 150 Php ] \n\nOne Time Payment : [ 600 R$ ] [ 3.50 $ ] [ 250 Php ]\n\nObc Channel [ Access ]\n\nPer Week : [ 300 R$ ] [ 2.00$ ] [ 100 Php ]\nPer Month : [ 500 R$ ] [ 4.00$ ] [ 200 Php ]\n\nOne Time Payment : [ 750 R$ ] [ 4.00$ ] [ 300 Php ]\n\nAll Channel [ Access ]\n\nPer Week : [ 600 R$ ] [ 3.00$ ] [ 250 Php ]\nPer Month : [ 900 R$ ] [ 5.00$ ] [ 350 Php ]\n\nOne Time Payment : [ 1,200 R$ ] [ 7.00 $ ] [ 500 Php ]\n\nNotice : Only @RR#7152 Can Sell\`\`\`')
+		  message.channel.sendMessage('')
 	 }
 });
 
