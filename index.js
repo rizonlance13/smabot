@@ -81,9 +81,7 @@ client.on('message', message => {
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_All_Lifetime')) {
-			client.users.get("392667298080489485").send({embed: {
-                                                                color: 3447003,
-                                                                description: "A very simple Embed!")
+			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy All Access For A Month!!\`\`\`" + message.author)
 			message.channel.sendMessage('\`\`\`css\nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
   } else
 
