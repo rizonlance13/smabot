@@ -27,62 +27,62 @@ client.on('message', message => {
   } else
 	if (message.content.startsWith(prefix + 'Buy_Bc_Week')) {
       client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy BC Access For A Week!!\`\`\`" + message.author)
-      message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Kust Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
+      message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Bc_Month')) {
 			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy BC Access For A Month!!\`\`\`" + message.author)
-			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Kust Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
+			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Bc_Lifetime')) {
 			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy BC Access For A Lifetime!! OMG!!!\`\`\`" + message.author)
-			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Kust Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
+			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Tbc_Week')) {
 			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy TBC Access For A Week!!\`\`\`" + message.author)
-			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Kust Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
+			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Tbc_Month')) {
 			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy TBC Access For A Month!!\`\`\`" + message.author)
-			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Kust Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
+			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Tbc_Lifetime')) {
 			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy TBC Access For A LifeTime!!!!!\`\`\`" + message.author)
-			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Kust Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
+			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Obc_Week')) {
 			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy OBC Access For A Week!!\`\`\`" + message.author)
-			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Kust Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
+			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Obc_Month')) {
 			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy OBC Access For A Month!!\`\`\`" + message.author)
-			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Kust Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
+			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Obc_Lifetime')) {
 			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy OBC Access For A Lifetime!!\`\`\`" + message.author)
-			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Kust Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
+			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_All_Week')) {
 			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy All Access For A Week!!\`\`\`" + message.author)
-			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Kust Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
+			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_All_Month')) {
 			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy All Access For A Month!!\`\`\`" + message.author)
-			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Kust Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
+			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_All_Lifetime')) {
 			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy All Access For A LifeTime!!!\`\`\`" + message.author)
-			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Kust Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
+			message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
   } else
 
 	if (message.content.startsWith(prefix + 'Prices')) {
