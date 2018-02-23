@@ -26,63 +26,63 @@ client.on('message', message => {
 		  message.channel.sendMessage(`\`\`\`css\n[HELP COMMANDS] - Commands that will help you if you \n                  don't know what is our bot and how \n                  to buy an access.\n\n[BC] BUY COMMANDS\n\n^Buy_Bc_Week =  Use this command if you will buy Bc access weekly\n^Buy_Bc_Month = Use this command if you will buy Bc access monthly \n^Buy_Bc_Lifetime = Use this command if you will buy Bc access lifetime\n\n[TBC]BUY COMMANDS\n\n^Buy_Tbc_Week = Use this command if you will buy Tbc access weekly\n^Buy_Tbc_Month = Use this command if you will buy Tbc access monthly\n^Buy_Tbc_Lifetime = Use this command if you will buy Tbc access lifetime\n\n[OBC]BUY COMMANDS\n\n^Buy_Obc_Week = Use this command if you will buy Obc access weekly\n^Buy_Obc_Month = Use this command if you will buy Obc access monthly\n^Buy_Obc_Lifetime = Use this command if you will buy Obc access lifetime\n\n[AllAccess]Buy Commands\n\n^Buy_All_Week = Use this command if you will buy All access weekly\n^Buy_All_Month = Use this command if you will buy All access monthly\n\n^Buy_All_Lifetime = Use this command if you will buy All access lifetime\n\n[Trollers=Ban. Don't Even Test it out]\n\n===============================================\nOther Useful Bots Commands :\n\n^Prices\`\`\``)
   } else
 	if (message.content.startsWith(prefix + 'Buy_Bc_Week')) {
-      client.users.get("362965823654068226").send("\`\`\`css\nWants To Buy BC Access For A Week!!\`\`\`" + message.author)
+      client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy BC Access For A Week!!\`\`\`" + message.author)
       message.channel.sendMessage('\`\`\`css\nWe Contacted @ᴍʀ.ꜱᴜɪᴄɪᴅᴇʀ#0645 So Be Patient If You Do This Just For Fun Or Trolling Or Even Testing You Will Receive A BAN Thank You!!!\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Bc_Month')) {
-			client.users.get("362965823654068226").send("\`\`\`css\nWants To Buy BC Access For A Month!!\`\`\`" + message.author)
+			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy BC Access For A Month!!\`\`\`" + message.author)
 			message.channel.sendMessage('\`\`\`css\nWe Contacted @ᴍʀ.ꜱᴜɪᴄɪᴅᴇʀ#0645 So Be Patient If You Do This Just For Fun Or Trolling Or Even Testing You Will Receive A BAN Thank You!!!\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Bc_Lifetime')) {
-			client.users.get("362965823654068226").send("\`\`\`css\nWants To Buy BC Access For A Lifetime!! OMG!!!\`\`\`" + message.author)
+			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy BC Access For A Lifetime!! OMG!!!\`\`\`" + message.author)
 			message.channel.sendMessage('\`\`\`css\nWe Contacted @ᴍʀ.ꜱᴜɪᴄɪᴅᴇʀ#0645 So Be Patient If You Do This Just For Fun Or Trolling Or Even Testing You Will Receive A BAN Thank You!!!\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Tbc_Week')) {
-			client.users.get("362965823654068226").send("\`\`\`css\nWants To Buy TBC Access For A Week!!\`\`\`" + message.author)
+			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy TBC Access For A Week!!\`\`\`" + message.author)
 			message.channel.sendMessage('\`\`\`css\nWe Contacted @ᴍʀ.ꜱᴜɪᴄɪᴅᴇʀ#0645 So Be Patient If You Do This Just For Fun Or Trolling Or Even Testing You Will Receive A BAN Thank You!!!\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Tbc_Month')) {
-			client.users.get("362965823654068226").send("\`\`\`css\nWants To Buy TBC Access For A Month!!\`\`\`" + message.author)
+			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy TBC Access For A Month!!\`\`\`" + message.author)
 			message.channel.sendMessage('\`\`\`css\nWe Contacted @ᴍʀ.ꜱᴜɪᴄɪᴅᴇʀ#0645 So Be Patient If You Do This Just For Fun Or Trolling Or Even Testing You Will Receive A BAN Thank You!!!\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Tbc_Lifetime')) {
-			client.users.get("362965823654068226").send("\`\`\`css\nWants To Buy TBC Access For A LifeTime!!!!!\`\`\`" + message.author)
+			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy TBC Access For A LifeTime!!!!!\`\`\`" + message.author)
 			message.channel.sendMessage('\`\`\`css\nWe Contacted @ᴍʀ.ꜱᴜɪᴄɪᴅᴇʀ#0645 So Be Patient If You Do This Just For Fun Or Trolling Or Even Testing You Will Receive A BAN Thank You!!!\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Obc_Week')) {
-			client.users.get("362965823654068226").send("\`\`\`css\nWants To Buy OBC Access For A Week!!\`\`\`" + message.author)
+			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy OBC Access For A Week!!\`\`\`" + message.author)
 			message.channel.sendMessage('\`\`\`css\nWe Contacted @ᴍʀ.ꜱᴜɪᴄɪᴅᴇʀ#0645 So Be Patient If You Do This Just For Fun Or Trolling Or Even Testing You Will Receive A BAN Thank You!!!\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Obc_Month')) {
-			client.users.get("362965823654068226").send("\`\`\`css\nWants To Buy OBC Access For A Month!!\`\`\`" + message.author)
+			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy OBC Access For A Month!!\`\`\`" + message.author)
 			message.channel.sendMessage('\`\`\`css\nWe Contacted @ᴍʀ.ꜱᴜɪᴄɪᴅᴇʀ#0645 So Be Patient If You Do This Just For Fun Or Trolling Or Even Testing You Will Receive A BAN Thank You!!!\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Obc_Lifetime')) {
-			client.users.get("362965823654068226").send("\`\`\`css\nWants To Buy OBC Access For A Lifetime!!\`\`\`" + message.author)
+			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy OBC Access For A Lifetime!!\`\`\`" + message.author)
 			message.channel.sendMessage('\`\`\`css\nWe Contacted @ᴍʀ.ꜱᴜɪᴄɪᴅᴇʀ#0645 So Be Patient If You Do This Just For Fun Or Trolling Or Even Testing You Will Receive A BAN Thank You!!!\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_All_Week')) {
-			client.users.get("362965823654068226").send("\`\`\`css\nWants To Buy All Access For A Week!!\`\`\`" + message.author)
+			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy All Access For A Week!!\`\`\`" + message.author)
 			message.channel.sendMessage('\`\`\`css\nWe Contacted @ᴍʀ.ꜱᴜɪᴄɪᴅᴇʀ#0645 So Be Patient If You Do This Just For Fun Or Trolling Or Even Testing You Will Receive A BAN Thank You!!!\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_All_Month')) {
-			client.users.get("362965823654068226").send("\`\`\`css\nWants To Buy All Access For A Month!!\`\`\`" + message.author)
+			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy All Access For A Month!!\`\`\`" + message.author)
 			message.channel.sendMessage('\`\`\`css\nWe Contacted @ᴍʀ.ꜱᴜɪᴄɪᴅᴇʀ#0645 So Be Patient If You Do This Just For Fun Or Trolling Or Even Testing You Will Receive A BAN Thank You!!!\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_All_Lifetime')) {
-			client.users.get("362965823654068226").send("\`\`\`css\nWants To Buy All Access For A LifeTime!!!\`\`\`" + message.author)
-			message.channel.sendMessage('\`\`\`css\nWe Contacted @ᴍʀ.ꜱᴜɪᴄɪᴅᴇʀ#0645 So Be Patient If You Do This Just For Fun Or Trolling Or Even Testing You Will Receive A BAN Thank You!!!\`\`\`')
+			client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy All Access For A LifeTime!!!\`\`\`" + message.author)
+			message.channel.sendMessage('\`\`\`css\nWe Contacted @RR#7152 So Be Patient If You Do This Just For Fun Or Trolling Or Even Testing You Will Receive A BAN Thank You!!!\`\`\`')
   } else
 
 	if (message.content.startsWith(prefix + 'Prices')) {
