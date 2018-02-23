@@ -27,7 +27,7 @@ client.on('message', message => {
   } else
 	if (message.content.startsWith(prefix + 'Buy_Bc_Week')) {
       client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy BC Access For A Week!!\`\`\`" + message.author)
-      message.channel.sendMessage('\`\`\`css \nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
+      message.channel.sendMessage('\`\`\`css \n Ya-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Bc_Month')) {
