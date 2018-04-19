@@ -17,17 +17,17 @@ client.on('ready',() => {
 	console.log('I\'m Online\nI\'m Online');
 });
 
-var prefix = "^"
+var prefix = "$"
 client.on('message', message => {
 	if (!message.content.startsWith(prefix)) return;
 	if (message.author.bot) return;
 
 	if (message.content.startsWith(prefix + 'Help')) {
-		  message.channel.sendMessage(`\`\`\`css\n[HELP COMMANDS] - Commands that will help you if you \n                  don't know what is our bot and how \n                  to buy an access.\n\n[BC] BUY COMMANDS\n\n^Buy_Bc_Week =  Use this command if you will buy Bc access weekly\n^Buy_Bc_Month = Use this command if you will buy Bc access monthly \n^Buy_Bc_Lifetime = Use this command if you will buy Bc access lifetime\n\n[TBC]BUY COMMANDS\n\n^Buy_Tbc_Week = Use this command if you will buy Tbc access weekly\n^Buy_Tbc_Month = Use this command if you will buy Tbc access monthly\n^Buy_Tbc_Lifetime = Use this command if you will buy Tbc access lifetime\n\n[OBC]BUY COMMANDS\n\n^Buy_Obc_Week = Use this command if you will buy Obc access weekly\n^Buy_Obc_Month = Use this command if you will buy Obc access monthly\n^Buy_Obc_Lifetime = Use this command if you will buy Obc access lifetime\n\n[AllAccess]Buy Commands\n\n^Buy_All_Week = Use this command if you will buy All access weekly\n^Buy_All_Month = Use this command if you will buy All access monthly\n\n^Buy_All_Lifetime = Use this command if you will buy All access lifetime\n\n[Trollers=Ban. Don't Even Test it out]\n\n===============================================\nOther Useful Bots Commands :\n\n^Prices\`\`\``)
+		  message.channel.sendMessage(`\`\`\`css\nHi Wrath!! You Can Put anything u want me to in this command ;)\`\`\``)
   } else
-	if (message.content.startsWith(prefix + 'Buy_Bc_Week')) {
-      client.users.get("410786604156977152").send("\`\`\`css\nWants To Buy BC Access For A Week!!\`\`\`" + message.author)
-      message.channel.sendMessage('\`\`\`css\nYa-ha! Hello User I Just Contacted @RR#7152, Please Be Patient And Wait Until @RR#7152 Contacted You. If You Are Just Doing This For Fun, Testing, Or Troll You Will Receive A Mute, Thank You\`\`\`')
+	if (message.content.startsWith(prefix + 'Buy_Synapse')) {
+      client.users.get("430043260199763968").send("\`\`\`css\nWants To Buy Synapse!!\`\`\`" + message.author)
+      message.channel.sendMessage('\`\`\`css\nHello! I Just Contacted The Founder!! Please Be Patient For A Reply!\`\`\`')
 	} else
 
 	if (message.content.startsWith(prefix + 'Buy_Bc_Month')) {
