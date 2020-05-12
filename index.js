@@ -17,15 +17,15 @@ client.on('ready',() => {
 	console.log('I\'m Online\nI\'m Online');
 });
 
-var prefix = "$"
+var prefix = "!"
 client.on('message', message => {
 	if (!message.content.startsWith(prefix)) return;
 	if (message.author.bot) return;
 
 	if (message.content.startsWith(prefix + 'Help')) {
-		  message.channel.sendMessage(`\`\`\`css\nHi Wrath!! You Can Put anything u want me to in this command ;)\`\`\``)
+		  message.channel.sendMessage(`\`\`\`css\nWassup Nigga;)\`\`\``)
   } else
-	if (message.content.startsWith(prefix + 'Buy_Synapse')) {
+	if (message.content.startsWith(prefix + 'Testing 1')) {
       client.users.get("430043260199763968").send("\`\`\`css\nWants To Buy Synapse!!\`\`\`" + message.author)
       message.channel.sendMessage('\`\`\`css\nHello! I Just Contacted The Founder!! Please Be Patient For A Reply!\`\`\`')
 	} else
